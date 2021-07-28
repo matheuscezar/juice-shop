@@ -4,7 +4,7 @@
  */
 
 /* jslint node: true */
-import models = require('../models/index')
+import models = require('../models/index') //teste
 const datacache = require('./datacache')
 const config = require('config')
 const utils = require('../lib/utils')
