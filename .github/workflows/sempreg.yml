@@ -7,6 +7,7 @@ on:
       # Push events on main branch
       - main
       - master
+      # oi
 
 jobs:
   semgrep:
